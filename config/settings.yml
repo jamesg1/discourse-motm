@@ -1,0 +1,4 @@
+plugins:
+  discourse_motm_enabled:
+    default: true
+    client: true
